@@ -131,4 +131,7 @@ dmypy.json
 /Learn/
 /Tests/
 /lectures/
+/Project/data/savedmodel/
 .ipynb_checkpoints/
+*.ipynb
+*.npy
